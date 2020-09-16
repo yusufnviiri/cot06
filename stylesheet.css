@@ -1,0 +1,133 @@
+body {
+    background: linear-gradient(to right, #C8FA64, #290024);
+    display: flex;
+    position: relative;
+    justify-content: center;
+    word-wrap: break-word;
+    left: 7%;
+    font-size: 17px;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header p {
+    color: black;
+    margin-right: 25%;
+    margin-left: 15%;
+    margin-inline: 1px;
+}
+
+.header {
+    position: relative;
+    top: 100px;
+}
+
+.Admissionheader {
+    position: relative;
+    top: 150px;
+}
+
+.careerheader {
+    position: relative;
+    top: 100px;
+}
+
+.careerheader span {
+    position: relative;
+    color: #1A1817;
+    margin-left: 200px;
+    font-size: xx-large;
+}
+
+.Careerheader li {
+    position: relative;
+    margin-left: 200px;
+    list-style-type: disc;
+}
+
+.softh span {
+    position: relative;
+    color: #1A1817;
+    margin-left: 150px;
+    font-size: x-large;
+    margin-right: 25%;
+    margin-left: 15%;
+    font-weight: 130%
+}
+
+.softh {
+    position: relative;
+    top: 100px;
+    margin-right: 25%;
+    margin-left: 15%;
+}
+
+.SoftH li {
+    position: relative;
+    margin-left: 200px;
+    list-style-type: disc;
+}
+
+.header span {
+    position: relative;
+    top: 20px;
+    color: #1A1817;
+    margin-left: 200px;
+    margin-top: 90%;
+    font-size: xx-large;
+}
+
+.Admissionheader span {
+    position: relative;
+    color: #1A1817;
+    margin-left: 200px;
+    font-size: xx-large;
+}
+
+.link1 {
+    font-style: verdana;
+}
+
+.careerheader p {
+    position: relative;
+    color: black;
+    margin-right: 25%;
+    margin-left: 15%;
+}
+
+.Admissionheader p {
+    position: relative;
+    color: black;
+    left: 5%;
+    margin-right: 25%;
+    margin-left: 5%;
+}
+
+.list {
+    list-style: decimal;
+    position: relative;
+    left: 25%;
+}
+
+.go {
+    color: #9A0089;
+    background-color: #FFC8C9;
+    padding: 20px 30px 20px 50px;
+    word-wrap: flex;
+    font-size: x-large;
+}
+
+.image img {
+    margin: 0%;
+    width: auto;
+    height: 90px;
+}
+
+.i {
+    display: flexbox;
+    position: relative;
+    width: 300px;
+    height: 120px;
+}
